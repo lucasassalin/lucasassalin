@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de pant0rex 
+## Bem-vindo(a) ao perfil de Lucas 
 
  <div>
    <a href="https://github.com/pant0rex">
