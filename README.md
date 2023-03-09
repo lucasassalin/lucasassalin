@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil de pant0rex ~
 
  <div>
    <a href="https://github.com/pant0rex">
