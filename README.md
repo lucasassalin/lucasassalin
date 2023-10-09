@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Lucas 
+## Hello there
 
 <div>
 <a href="https://github.com/pant0rex">
